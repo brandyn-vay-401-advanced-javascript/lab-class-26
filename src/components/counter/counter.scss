@@ -1,0 +1,14 @@
+#counter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+
+  button {
+    padding: 2em;
+    line-height: 2em;
+    font-size: 1.5em;
+    font-weight: bold;
+
+  }
+}
