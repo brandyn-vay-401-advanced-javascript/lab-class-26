@@ -15,10 +15,13 @@
 ### Modules
 
 #### `header.js`
+#### `header.scss`
 
 #### `footer.js`
+#### `footer.scss`
 
 #### `counter.js`
+#### `counter.scss`
 
 #### UML
 
